@@ -2,7 +2,7 @@ from django.shortcuts import render
 from .models import MovieModel
 from .forms import MovieForm
 
-# Create your views here.
+# Create your views here......
 
 
 def index_view(request):
